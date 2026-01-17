@@ -22,6 +22,8 @@ Simple TUI Todo App built with **React** and **Ink**, bundled with Bun.
     bun build todo.jsx --outdir dist --target bun
     ```
 
+    _Build scripts can be found in `package.json` as well._
+
 4. Run with Bun
     ```bash
     bun todo.jsx
