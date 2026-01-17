@@ -4,6 +4,13 @@ Simple TUI Todo App built with **React** and **Ink**, bundled with Bun.
 
 ![Screenshot](./screenshot.gif)
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" title="Node.js">
+  <img src="https://img.shields.io/badge/bun-000000?style=for-the-badge&logo=bun&logoColor=white" alt="BUN" title="BUN">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" title="React">
+  <img src="https://img.shields.io/badge/Ink-000000?style=for-the-badge&logo=ink&logoColor=white" alt="Ink" title="Ink">
+</div>
+
 ## Installation
 
 1. Clone the repository
