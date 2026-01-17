@@ -2,6 +2,8 @@
 
 Simple TUI Todo App built with **React** and **Ink**, bundled with Bun.
 
+![Screenshot](./screenshot.gif)
+
 ## Installation
 
 1. Clone the repository
